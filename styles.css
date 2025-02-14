@@ -326,13 +326,13 @@ footer {
     .tech-content {
         flex-direction: column;
         /* text-align: center; */
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     .tech-info,
     .music-player {
         max-width: 100%;
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     .phone-frame {
@@ -343,16 +343,16 @@ footer {
     .footer-content {
         grid-template-columns: 1fr;
         gap: 2rem;
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
     .project-info{
-        font-size: 0.5rem;
+        font-size: 1rem;
     }
     .section-header{
-        font-size: 0.7rem;
+        font-size: 1rem;
     }
     p{
-        font-size: 0.7rem;
+        font-size: 1rem;
     }
 }
 

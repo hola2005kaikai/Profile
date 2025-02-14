@@ -326,7 +326,7 @@ footer {
     .tech-content {
         flex-direction: column;
         /* text-align: center; */
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 
     .tech-info,
@@ -343,16 +343,16 @@ footer {
     .footer-content {
         grid-template-columns: 1fr;
         gap: 2rem;
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .project-info{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .section-header{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     p{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 }
 
